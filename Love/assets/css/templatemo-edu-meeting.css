@@ -1842,6 +1842,8 @@ responsive
 
 }
 
+
+/*********************************************************************************************************************************/
 #clik{
 	text-align: center;
 	cursor: pointer;
@@ -1864,4 +1866,8 @@ responsive
 	background-color: rgb(200, 0, 0);
 	margin: auto;
 	padding: 4px;
+}
+
+body{
+  background: url('assets/images/fundo.jpg');
 }
